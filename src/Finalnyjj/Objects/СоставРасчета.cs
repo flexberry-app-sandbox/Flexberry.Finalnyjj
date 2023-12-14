@@ -287,7 +287,6 @@ namespace IIS.Finalnyjj
         public virtual void Отправить()
         {
             // *** Start programmer edit section *** (СоставРасчета.Отправить method implementation)
-
             return;
             // *** End programmer edit section *** (СоставРасчета.Отправить method implementation)
         }

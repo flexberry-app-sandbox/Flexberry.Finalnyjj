@@ -28,43 +28,43 @@ export default Controller.extend({
             link: 'i-i-s-finalnyjj-расчетный-лист-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-расчетный-лист-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-расчетный-лист-l.title'),
-            icon: 'suitcase',
+            icon: 'tasks',
             children: null
           }, {
             link: 'i-i-s-finalnyjj-отделы-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-отделы-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-отделы-l.title'),
-            icon: 'phone',
+            icon: 'tasks',
             children: null
           }, {
             link: 'i-i-s-finalnyjj-согласие-на-опд-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-согласие-на-опд-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-согласие-на-опд-l.title'),
-            icon: 'edit',
+            icon: 'suitcase',
             children: null
           }, {
             link: 'i-i-s-finalnyjj-должности-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-должности-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-должности-l.title'),
-            icon: 'archive',
+            icon: 'calendar',
             children: null
           }, {
             link: 'i-i-s-finalnyjj-график-отпуска-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-график-отпуска-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-график-отпуска-l.title'),
-            icon: 'tags',
+            icon: 'calendar',
             children: null
           }, {
             link: 'i-i-s-finalnyjj-сотрудники-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-сотрудники-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-сотрудники-l.title'),
-            icon: 'list',
+            icon: 'tasks',
             children: null
           }, {
             link: 'i-i-s-finalnyjj-организации-l',
             caption: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-организации-l.caption'),
             title: i18n.t('forms.application.sitemap.кадровые-документы.i-i-s-finalnyjj-организации-l.title'),
-            icon: 'briefcase',
+            icon: 'calendar',
             children: null
           }]
         }
