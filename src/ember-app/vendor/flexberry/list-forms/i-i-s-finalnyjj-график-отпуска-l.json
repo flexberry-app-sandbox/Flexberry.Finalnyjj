@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-finalnyjj-график-отпуска-e",
+  "editForm": "i-i-s-finalnyjj-график-отпуска-e",
+  "external": false,
+  "caption": "График отпуска",
+  "name": "IISFinalnyjjГрафикОтпускаL",
+  "className": "ГрафикОтпускаL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-finalnyjj-график-отпуска",
+      "modelProjection": "ГрафикОтпускаL"
+    }
+  ]
+}

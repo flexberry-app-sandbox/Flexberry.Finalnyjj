@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Согласие на опд",
+  "name": "IISFinalnyjjСогласиеНаОпдE",
+  "className": "СогласиеНаОпдE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-finalnyjj-согласие-на-опд",
+      "modelProjection": "СогласиеНаОпдE"
+    }
+  ]
+}
