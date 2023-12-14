@@ -30,7 +30,7 @@
       "Java": true
     },
     "Docker": {
-      "Dockerfile": false,
+      "Dockerfile": true,
       "DockerfileAutobuild": false,
       "DockerBuildShellScript": false,
       "DockerSwarm": false
@@ -38,18 +38,18 @@
     "Storage": {
       "Mssql": {
         "DiffSql": false,
-        "FullSql": false,
+        "FullSql": true,
         "LiquibaseSql": false,
         "Security": false,
         "AdminUser": false,
         "ConnectionString": null
       },
       "PostgreSql": {
-        "DiffSql": false,
-        "FullSql": false,
-        "LiquibaseSql": false,
-        "Security": false,
-        "AdminUser": false,
+        "DiffSql": true,
+        "FullSql": true,
+        "LiquibaseSql": true,
+        "Security": true,
+        "AdminUser": true,
         "ConnectionString": null
       },
       "ClickHouse": {
